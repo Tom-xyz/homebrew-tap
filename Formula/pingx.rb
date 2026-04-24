@@ -3,8 +3,8 @@ class Pingx < Formula
 
   desc "Full-screen TUI ping monitor with auto-reconnect and WAN failover detection"
   homepage "https://github.com/Tom-xyz/pingx"
-  url "https://github.com/Tom-xyz/pingx/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "97928a4febfb1b987010fe3db0626a0cae4916ede5c2389a54a39906a7add685"
+  url "https://github.com/Tom-xyz/pingx/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "87cfe3d22e6c7d36f7a72f3658e45c7f9a054751354038fba737b592de16f06d"
   license "MIT"
 
   depends_on "python@3.12"
