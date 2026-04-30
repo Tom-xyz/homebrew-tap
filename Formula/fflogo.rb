@@ -1,8 +1,8 @@
 class Fflogo < Formula
   desc "Interactive picker for fastfetch ASCII logos with live preview"
   homepage "https://github.com/Tom-xyz/ff-logo-picker"
-  url "https://github.com/Tom-xyz/ff-logo-picker/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "e1a3d8d56112e0dbc196e6cd262d62c69abccc235eebc4dce8f46c017042266a"
+  url "https://github.com/Tom-xyz/ff-logo-picker/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "612861863228cc3c893797eafbd2eca2973e1b950d5c089f8e7016c97853e880"
   license "MIT"
   head "https://github.com/Tom-xyz/ff-logo-picker.git", branch: "main"
 
